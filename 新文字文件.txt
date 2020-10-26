@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>旅遊臺東 Go!</title>
+<style type="text/css">
+.標1 {
+	font-family: "微軟正黑體";
+	font-size: 50px;
+	line-height: 120px;
+	color: #1a75ff;
+}
+.標2 {
+	font-family: "微軟正黑體";
+	font-size: 40px;
+	line-height: 80px;
+	color: #09F;
+}
+.內 {
+	font-family: "微軟正黑體";
+	font-size: 32px;
+	line-height: 64px;
+	color: #4dc3ff;
+}
+.內1{
+	font-family: "微軟正黑體";
+	font-size: 24px;
+	line-height: 32px;
+	color: #ffffff;
+}
+.內2{
+	font-family: "微軟正黑體";
+	font-size: 20px;
+	line-height: 32px;
+	color: #FFF;
+}
+a:link {
+	color: #0CF;
+}
+a:visited {
+	color: #69F;
+}
+a:hover {
+	color: #0F9;
+}
+a:active {
+	color: #FF0;
+}
+
+</style>
+</head>
+
+<body>
+<div style="background-image:url(002.jpg);height:400px; #ccc solid;">		
+</div>
+<div style="width:30px; float:left;height:6000px;background-image:url(111.jpg)">
+</div>
+<div style="width:400px; float:left;height:6000px;background-image:url(111.jpg)">
+	<br><br><dt class="標2">&#127759《台東美食》</dt>
+	<br><p class="內"><a href="#2"> &#127807 成功豆花</a></dt>
+	<br><p class="內"><a href="#3"> &#127807 藍蜻蜓速食專賣店</a></dt>
+	<br><p class="內"><a href="#4"> &#127807 金花軒卑南包仔店</a></dt>
+	<br><p class="內"><a href="#5"> &#127807 七里香水煎包滷味</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東景點》</dt>
+	<br><p class="內"><a href="#7"> &#127807 知本國家森林遊樂區</a></dt>
+	<br><p class="內"><a href="#8"> &#127807 鹿野高台熱氣球</a></dt>
+	<br><p class="內"><a href="#9"> &#127807 星星部落觀景咖啡</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東名產》</dt>
+	<br><p class="內"><a href="#11"> &#127807 楊記家傳地瓜專賣店</a></dt>
+	<br><p class="內"><a href="#12"> &#127807 太陽很多釋迦</a></dt>
+	<br><p class="內"><a href="#13"> &#127807 八號。手做</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東美食》</dt>
+	<br><p class="內"><a href="#2"> &#127807 成功豆花</a></dt>
+	<br><p class="內"><a href="#3"> &#127807 藍蜻蜓速食專賣店</a></dt>
+	<br><p class="內"><a href="#4"> &#127807 金花軒卑南包仔店</a></dt>
+	<br><p class="內"><a href="#5"> &#127807 七里香水煎包滷味</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東景點》</dt>
+	<br><p class="內"><a href="#7"> &#127807 知本國家森林遊樂區</a></dt>
+	<br><p class="內"><a href="#8"> &#127807 鹿野高台熱氣球</a></dt>
+	<br><p class="內"><a href="#9"> &#127807 星星部落觀景咖啡</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東名產》</dt>
+	<br><p class="內"><a href="#11"> &#127807 楊記家傳地瓜專賣店</a></dt>
+	<br><p class="內"><a href="#12"> &#127807 太陽很多釋迦</a></dt>
+	<br><p class="內"><a href="#13"> &#127807 八號。手做</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東美食》</dt>
+	<br><p class="內"><a href="#2"> &#127807 成功豆花</a></dt>
+	<br><p class="內"><a href="#3"> &#127807 藍蜻蜓速食專賣店</a></dt>
+	<br><p class="內"><a href="#4"> &#127807 金花軒卑南包仔店</a></dt>
+	<br><p class="內"><a href="#5"> &#127807 七里香水煎包滷味</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東景點》</dt>
+	<br><p class="內"><a href="#7"> &#127807 知本國家森林遊樂區</a></dt>
+	<br><p class="內"><a href="#8"> &#127807 鹿野高台熱氣球</a></dt>
+	<br><p class="內"><a href="#9"> &#127807 星星部落觀景咖啡</a></dt>
+	<br><br><br><dt class="標2">&#127759《台東名產》</dt>
+	<br><p class="內"><a href="#11"> &#127807 楊記家傳地瓜專賣店</a></dt>
+	<br><p class="內"><a href="#12"> &#127807 太陽很多釋迦</a></dt>
+	<br><p class="內"><a href="#13"> &#127807 八號。手做</a></dt>
+	
+</div>
+<div style="width:50px; float:left;height:6000px;background-image:url(5-120601095949.jpg)">
+</div>
+<div style="width:100px; float:right;height:6000px;background-image:url(5-120601095949.jpg)">
+</div>
+<div style="height:6000px;background-image:url(5-120601095949.jpg)">
+	<span class="標1">旅遊台東 traveling Taitung Go!</span>
+	<dt class="標2"><a id="1">&#127759《台東美食》</a></dt><br><br>
+
+	<dt class="內"><a id="2">&#127807 成功豆花</a></dt>
+	<dt class="內1"><br><img src="1132.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	綿密豆花搭配濃純豆漿，在滿滿豆香味中已征服小薛的味蕾！位於台東成功鎮的老字號『成功豆花』，還有刨冰、薏仁、綠豆蒜…等古早味甜品可以選擇，快來一嚐十幾年老店的懷舊滋味吧！
+	<br/><br>
+	<center>『成功豆花』店家詳細資訊&食記：
+	<br/><a href="https://yoti.life/taitung-food-21/" title="https://yoti.life/taitung-food-21/">https://yoti.life/taitung-food-21/</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://yoti.life/taitung-food-50/" title="桂花樹下">桂花樹下</a></center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="3">&#127807 藍蜻蜓速食專賣店</a></dt>
+	<dt class="內1"><br><img src="1122.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	『藍蜻蜓速食專賣店』是老台東人專屬的炸雞店，就算到現在人氣還是一樣旺！更是台東排隊名店之一，每到假日大同路上都是長長的排隊人潮，這裡有搭配漢堡的藍蜻蜓全餐和只吃炸雞的炸雞全餐，讓我們一起來品嚐老台東人懷念的好滋味吧！
+	<br/><br>
+	<center>『藍蜻蜓速食專賣店』店家詳細資訊&食記：
+	<br/><a href="https://yoti.life/taitung-food-3/" title="https://yoti.life/taitung-food-3/">https://yoti.life/taitung-food-3/</a>
+	<br/><br>
+	延伸閱讀：
+	<br/><a href="https://yoti.life/taitung-food-28/" title="阿鋐炸雞專賣店">阿鋐炸雞專賣店</a></center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="4">&#127807 金花軒卑南包仔店(卑南肉包)</a></dt>
+	<dt class="內1"><br><img src="1123.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	身為包子控一定要來朝聖知名的台東卑南肉包！也就是每天都大排長龍的『金花軒卑南包仔店』，其招牌就是筍丁肉包、高麗菜包和芋頭紅豆包…等包子饅頭，美味到一吃便成了老主顧！
+	<br/><br>
+	<center>『金花軒卑南包仔店(卑南肉包)』店家詳細資訊&食記：
+	<br/><a href="https://yoti.life/taitung-food-8//" title="https://yoti.life/taitung-food-8/">https://yoti.life/taitung-food-8/</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://yoti.life/taitung-food-47/" title="好朋友肉包店">好朋友肉包店</a></center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="5">&#127807 七里香水煎包滷味</a></dt>
+	<dt class="內1"><br><img src="1124.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	遠近馳名的『七里香水煎包滷味』就在台東市區的正氣路小巷內，其招牌水煎包跟小薛拳頭一樣大！煎到金黃酥脆的外皮一口咬下，裡頭盡是滿滿的餡料！口感相當豐富吃的很有飽足感喔～
+	<br/><br>
+	<center>『七里香水煎包滷味』店家詳細資訊&食記：
+	<br/><a href="https://yoti.life/taitung-food-7/" title="https://yoti.life/taitung-food-7/">https://yoti.life/taitung-food-7/</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://yoti.life/taitung-food-70/" title="林記阿達滷味麵食館">林記阿達滷味麵食館</a>
+	、<a href="https://yoti.life/taitung-food-45/" title="戚家糧倉煙燻滷味">戚家糧倉煙燻滷味</a></center></dt>
+	<br><br><br><br><br><br><br><br><br>
+
+	<dt class="標2"><a id="6">&#127759《台東景點》</a></dt><br><br>
+
+	<dt class="內"><a id="7">&#127807 知本國家森林遊樂區</a></dt>
+	<dt class="內1"><br><img src="1125.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	沒有太多人工建築物的寧靜森林，投入綠意的懷抱，努力爬著步道，一旁就是一棵又一棵的參天巨木，爬累再泡個免費溫暖足湯舒緩一下，不經意的鳥叫聲，水裡悠游的小蝌蚪，若是幸運還有機會遇到台灣獼猴喔！
+	<br/><br>
+	<center>『知本國家森林遊樂區』景點詳細資訊&遊記：
+	<br/><a href="https://paulyear.com/zhiben-forest/" title="https://paulyear.com/zhiben-forest/">https://paulyear.com/zhiben-forest/</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://chu94168.pixnet.net/blog/post/358007180" title="知本溫泉">知本溫泉</a><center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="8">&#127807 鹿野高台熱氣球</a></dt>
+	<dt class="內1"><br><img src="1129.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	熱氣球嘉年華雲集了世界各地熱氣球來台展出，每場展出的造型球都不太相同，光是台灣熱氣球就佔了11顆～可愛的福利熊造型球也是台灣熱氣球之一噢!當造型逗趣的熱氣球齊放自由飛時，吸睛程度百分百！熱氣球嘉年華繽紛了臺灣的天空！
+	<br/><br>
+	<center>『鹿野高台熱氣球』景點詳細資訊&遊記：
+	<br/><a href="https://c852841092000.pixnet.net/blog/post/350564218" title="https://c852841092000.pixnet.net/blog/post/350564218">https://c852841092000.pixnet.net/blog/post/350564218</a>
+	<br/><br>
+	延伸閱讀：
+	<br/><a href="https://mreven.pixnet.net/blog/post/46162556" title="三仙台">三仙台</a></center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="9">&#127807 星星部落觀景咖啡</a></dt>
+	<dt class="內1"><br><img src="1128.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	星星部落擁有一整片遼闊的大草原，站在草原上，就能將180度的百萬夜景盡收眼底，星星部落提供豐富的飲品和輕食小點，來星星部落賞夜景，抬頭還能看見星星呢!
+	<br/><br>
+	<center>『星星部落觀景咖啡』景點詳細資訊&遊記：
+	<br/><a href="hhttps://fullfenblog.tw/star-tribe/" title="https://fullfenblog.tw/star-tribe/">https://fullfenblog.tw/star-tribe/</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://nanai.tw/2016-09-14-790/" title="海濱公園生命之樹">海濱公園生命之樹</a></center></dt>
+	<br><br><br><br><br><br><br><br><br><br>
+
+	<dt class="標2"><a id="10">&#127759《台東名產》</a></dt><br><br>
+
+	<dt class="內"><a id="11">&#127807 楊記家傳地瓜專賣店-振發老店</a></dt>
+	<dt class="內1"><br><img src="1121.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	相當涮嘴的地瓜酥，可是小薛來台東必買名產伴手禮之一，這次來買已有五十多年歷史的『楊記家傳地瓜專賣店』，除了大同路上的振發老店可以買地瓜酥外，中興路上的中興分店也可以買喔～
+	<br/><br>
+	<center>『楊記家傳地瓜專賣店-振發老店』店家詳細資訊&食記：
+	<br/><a href="https://yoti.life/taitung-food-15/" title="https://yoti.life/taitung-food-15/">https://yoti.life/taitung-food-15/</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://yoti.life/taitung-food-29/" title="蕃薯伯楊記家傳地瓜酥">蕃薯伯楊記家傳地瓜酥</a></center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="12">&#127807 太陽很多釋迦</a></dt>
+	<dt class="內1"><br><img src="1130.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	台東日照長溫度高，果樹充分地進行光合作用，製造澱粉、糖類等有機物質。一到夜晚，氣溫降低，呼吸作用減弱，就減少了養分的消耗。果實累積大量的有機物質，養分充足！這是台東釋迦好吃的秘密之一，每天乖乖曬太陽，讓台東生產出世界第一的釋迦。
+	<br/><br>
+	<center>『太陽很多釋迦』店家詳細資訊&食記：
+	<br/><a href="https://ann319999.pixnet.net/blog/post/349410079" title="https://ann319999.pixnet.net/blog/post/349410079">https://ann319999.pixnet.net/blog/post/349410079</a>
+	<br/><br>
+	延伸閱讀：
+	<br/><a href="http://www.zztaitung.com/5277/navel-orange" title="全台橙界之王-肚臍橙">全台橙界之王-肚臍橙</a></center></dt>
+	<br><br><br><br><br>
+
+	<dt class="內"><a id="13">&#127807 八號。手做 Cheese cake</a></dt>
+	<dt class="內1"><br><img src="1131.jpg" alt="" width="450" height="300" hspace="50" align="left" />
+	乳酪蛋糕又稱起司蛋糕，受到許多人喜愛，有重乳酪與輕乳酪兩種，是蛋糕店、咖啡館常見的蛋糕種類之一，8號。手作，採用新鮮食材、堅持以食材的原味，製作出香濃好吃的日式重乳酪蛋糕。適合喜好濃郁口感的朋友!
+	<br/><br>
+	<center>『八號。手做 Cheese cake』店家詳細資訊&食記：
+	<br/><a href="https://www.walkerland.com.tw/article/view/212087" title="https://www.walkerland.com.tw/article/view/212087">https://www.walkerland.com.tw/article/view/212087</a>
+	<br/><br>
+	 延伸閱讀：
+	<br/><a href="https://zineblog.com.tw/blog/post/45718327" title="寒單餅">寒單餅</a></center></dt>
+	<br><br><br><br><br>
+</div>
+</body>
+</html>
